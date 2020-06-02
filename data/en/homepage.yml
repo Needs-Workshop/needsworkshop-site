@@ -11,9 +11,8 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  description : "What would become possible if you could..."
+  title : "What would become possible if you could..."
   content : "
-
 ` Get everyone in your team, department or entire company on the same page 
 immediately? `
 
@@ -21,11 +20,11 @@ immediately? `
 ` Bring clarity to complex challenges, spot patterns and make sense of the mess? `
 
 
-` Understand your true priorities and what to do next? `
+` Discover your true priorities and what action to take next? `
 
 
 ` Find the solutions that are most likely to work for everyone? `
 
 
 To find out if Needs Workshop could help you please contact [dan@needsworkshop.com](mailto:dan@needsworkshop.com)"
-  image : "images/wrapper-img.png"
+  image : "images/shibuya.jpg"

@@ -35,15 +35,9 @@
       <div class="col-md-7 col-sm-12">
         <div class="block">
           <div class="section-title" id="findout">
-            <h2>{{ .title | markdownify }}</h2>
-            <p>{{ .description | markdownify }}</p>
+            <p>{{ .title | markdownify }}</p>
           </div>
           <p>{{ .content | markdownify }}</p>
-        </div>
-      </div>
-      <div class="col-md-5 col-sm-12">
-        <div class="block">
-          <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
         </div>
       </div>
     </div>
