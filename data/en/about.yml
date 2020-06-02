@@ -1,0 +1,63 @@
+################################## About #####################################
+about:
+  enable : true
+  image : "images/dan-young.jpg"
+  title : "Who am I?"
+  content : "
+  
+I'm Dan Young, founder of Needs Workshop. 
+
+
+I've spent much of my career in technology, product development and consulting. In 2016 I co-founded a  
+consultancy called EngineerBetter, to help orgasniations be more effective at delivering value through software.
+
+
+Then I [fired myself from EngineerBetter](https://www.engineerbetter.com/blog/farewell-to-engineerbetter). Why?
+
+
+Well, over recent years I had the opportunity to experience software product teams that worked beautifully. I’ve seen clear, expressive stories, 
+folks pair or mob programming and having fun, conversation bubbling away. I’ve seen continuous delivery in action, test-driven development, 
+quality built straight in, and seemingly very little waste or rework. These moments were majestic. When these teams had “flow” they cut their way 
+through a feature backlog like a woodchipper, adjusted quickly to change, and built robust, maintainable things. 
+
+
+But even when things looked great **in the team**, things were most definitely not great elsewhere.
+
+
+Whenever I zoomed out to look at the bigger picture in the organisation, I saw a complex landscape of tension and dysfunction. 
+
+
+Agile on its own offered no opinion on how to organise the upstream flow of value from ideas to engineering (the fuzzy front end), 
+or how to organise software development at program level. And the corporate agile frameworks, or digital transformation theatre
+that moved in to occupy this vacuum seemed to be creating more problems than they solved.
+
+
+Most crucially, Agile provided zero insight on **what business value actually is**.
+
+
+And if nobody knew what was valuable, how did anyone know if we were doing the right thing in the first place? 
+What use was quality engineering, rapid iteration and learning on something which didn’t make a difference? **What 
+was the point, if we weren’t meeting anyone’s needs?**
+
+
+We'd always aspired to tackling organisation-level challenges at EngineerBetter, but in the business system that emerged I wasn't finding the
+right kind of space or business relationships to explore this, not least because I was living in the wrong city.
+
+
+In my ongoing quest to move collaborative knowledge work into a better place, I came to recognise the importance of reflecting on needs in order to
+understand collective behaviour. Customer needs, of course,  but also the needs of everyone inside the organisation. When folks’ needs were being met I saw 
+flow in the wider organisation. When they remained unmet I saw tension.  
+
+
+Recognising that work in the space between people was where the magic happened, I began to develop a new style of practice that combined group facilitation 
+with a humble consulting approach. Through this I aimed to do **less telling and more listening and asking**, identifying the needs 
+within and outside organisations, and connecting folks with more effective strategies for meeting these needs. 
+
+
+Needs Workshop is the project I created to focus on this work. To find out more, I'd invite you to read about some **[examples](/examples)**.
+"
+
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

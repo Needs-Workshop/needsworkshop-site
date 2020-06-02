@@ -1,0 +1,29 @@
+################################## About #####################################
+about:
+  enable : true
+  image : "images/dan-young.jpg"
+  title : "New thinking for complex times"
+  content : "The amount of collaborative knowledge work has dramatically increased as we’ve transitioned into the 21st century. 
+
+
+Sadly our 20th century education, legal, economic and institutional systems have left us poorly prepared for this reality, and our resulting collective beliefs and assumptions  about how work works often hold us back.
+
+
+When we experience tension it’s a sign that our needs and the action strategies we choose to meet these needs are not well matched. 
+Needs Workshop provides a way to connect our needs to more effective strategies."
+
+
+################################## About2 #####################################
+about2:
+  enable : true
+  image : "images/dan-young.jpg"
+  title : "Second part"
+  content : "Second part
+  
+  
+  And more"
+
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

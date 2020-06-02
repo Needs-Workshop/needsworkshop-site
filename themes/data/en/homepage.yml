@@ -1,0 +1,46 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/Extended-Video.gif"
+  title : "What do you need <br/> to have happen?"
+  button:
+    enable : true
+    label : "Let's find out"
+    link : "#findout"
+
+############################# About #################################
+about:
+  enable : true
+  title : "What is Needs Workshop?"
+  description : "Needs Workshop is a way to find new perspectives, common understanding and effective ways of making progress in groups or organisations."
+  content : "Every organisation on earth does the same thing - they all flow value from 'please' to 'thank you'. 
+  Needs Workshop reveals the things that impede this flow and supports you in tackling them.
+  
+
+  Having developed approaches to resolve systemic issues and improve flow within software development organisations, we're now applying this to all kinds of organisation that do knowledge work"
+  
+  image : "images/wrapper-img.png"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/triz.jpg"
+  title : "Get everyone in your team, department or entire company on the same page immediately"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/enemy-defender.png"
+  title : "Make better decisions by including all the people who matter"
+  button:
+    enable : true
+    label : "Get started"
+    link : "services"    

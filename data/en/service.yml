@@ -1,0 +1,90 @@
+########################### about service #############################
+about:
+  enable : true
+  title : "How can we be useful?"
+  content : "
+  
+Here are some ways our starter session or subscription service could help you:
+
+
+- Get everyone in your team, department or entire company on the same page immediately
+
+
+- Bring clarity to your current challenges, spot patterns and make sense of the mess
+
+
+- Make better decisions that involve all the people who matter
+
+
+- Understand your true priorities and know what to do next
+"
+  image : "images/whiteboard.jpg"
+
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Needs Workshop Starter Session (£4500)"
+      icon : "ion-erlenmeyer-flask"
+      color : "primary"
+      content : "
+
+* How could this help?:
+* Company offsite
+* A way to kick off a new project or initiative
+* Understanding and connection with your customers
+* Dealing with unexpected events, or running incident postmortems
+* Managing growth (e.g startup)
+
+    "
+      
+    # featured service item loop
+    - name : "Needs Workshop Subscription (£2500 / month)"
+      icon : "ion-leaf"
+      color : "primary-dark"
+      content : "
+* A gym membership for your organisational health
+* Up to 30 Hrs per month
+* On-site (Bristol/Bath) or remote video
+
+
+* Get help in the most effective way for you, on a continuing basis
+* Deal with whatever emerges, as your needs change over time
+* Make use of:
+    * Facilitation
+    * Consulting
+    * Coaching
+    * Training
+    
+    
+    "
+
+############################# Service ###############################
+service:
+  enable : true
+  title : "How do we work?"
+  description : "We use group facilitation, along with a consulting approach based on humble inquiry."
+  service_item:
+    # service item loop
+    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Facilitation
+      content: "Traditional business meetings are notiriously ineffective, leaving the attendees feeling deflated or frustrated.
+      
+      
+      We facilitate productive and inclusive meetings or workshops for groups of all sizes, from small numbers up to very large scale, limited only by physical space available"
+
+    # service item loop
+    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: (Humble) Consulting
+      content: "You are the expert on you, and everything you need to know in order to change and is in your own organisation if you have the ability to see it. 
+
+
+      Our role is to help you find the answers. We use a consulting approach based on a technique called humble inquiry, 
+      allowing your teams to find and own their solutions"
+      
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
