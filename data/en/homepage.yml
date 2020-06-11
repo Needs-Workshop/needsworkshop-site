@@ -11,9 +11,8 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  content : "
-
-Needs Workshop can help you find new perspectives, common understanding and effective ways 
+  title: "Group Interaction Design  | Facilitation  |  Curiosity-Led Consulting"
+  content : "Needs Workshop can help you find new perspectives, common understanding and effective ways 
 of making progress in your organisation. 
 
 
@@ -30,7 +29,7 @@ immediately? `
 ` Discover your true priorities and what action to take next? `
 
 
-` Find the solutions that are most likely to work for everyone? `
+` Become unstuck on decisions and find the solutions that are most likely to work for everyone? `
 
 
 To find out more please contact [dan@needsworkshop.com](mailto:dan@needsworkshop.com)"

@@ -251,7 +251,6 @@ input[type="tel"] {
 }
 
 .section-title {
-  margin-bottom: 70px;
 
   h2 {
     text-transform: uppercase;
@@ -260,7 +259,6 @@ input[type="tel"] {
   }
 
   p {
-    font-style: italic;
     color: #666;
     font-family: $secondary-font;
   }
@@ -268,9 +266,10 @@ input[type="tel"] {
 
 
 .section-subtitle {
-  font-size: 28px;
+  font-size: 18px;
   font-weight: 600;
-  margin-bottom: 30px;
+  color: #666;
+  font-family: $secondary-font;
 
 }
 
