@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.needsworkshop.com"
+baseURL = "https://needsworkshop.com"
 title = "Needs Workshop"
 theme = "airspace-hugo"
 # post pagination
